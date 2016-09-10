@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragment_top_margin">50dp</dimen>
+    <dimen name="article_list_toolbar_hieght">80dp</dimen>
+    <bool name="twoColPane">true</bool>
+</resources>
