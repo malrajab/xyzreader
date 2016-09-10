@@ -1,0 +1,6 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_photo_height">224dp</dimen>
+    <integer name="list_column_count">1</integer>
+
+</resources>
